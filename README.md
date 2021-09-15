@@ -57,10 +57,8 @@ Install them and then move to the next step.
 
 ## Authors
 
-- **[Mehul Chaturvedi](https://github.com/Mehulcoder)**
+- **[Swagachu](https://github.com/Swagachuu)**
 
 ## Acknowledgments
 
-This was something which I had in my mind from a very long time. I didn't now stuff back then so wasn't able to come up with anything. This was really a fun project, got to learn a lot, about cookies and stuff and so much more.
-
-I tried to make this README as detailed as possible. If you have any queries or suggestions you can E-mail me at `mehul170104047@iitg.ac.in` or `mehul355180@gmail.com`.
+I tried to make this README as detailed as possible. If you have any queries or suggestions you can E-mail me at `tanmay18a@iitg.ac.in` or `tanmayjain1999@gmail.com`.
