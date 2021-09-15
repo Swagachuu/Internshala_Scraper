@@ -1,5 +1,5 @@
 
-# internshala_scraper
+# Internshala_Scraper
 
 Tired of looking up for your internship application status in **Insternshala** by scrolling and switching to different pages again and again?
 
